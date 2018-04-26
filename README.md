@@ -1,1 +1,1 @@
-"# tf-fashion-mnist" 
+# tf-fashion-mnist
